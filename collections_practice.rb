@@ -30,3 +30,7 @@ def kesha_maker(array)
     # replace 3rd character of each element with $
   end
 end
+
+def find_a(array)
+
+end
